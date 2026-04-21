@@ -33,22 +33,7 @@ ________________________________________________________________________________
   
 <h2 align="center">Languages and Tools:</h2>
 
-<div class="sphere-container">
-  <div class="sphere" id="sphere">
-    <!-- Icons -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  </div>
-</div>
+
 
 <br>
 </br>
